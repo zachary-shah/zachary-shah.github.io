@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, MATLAB
+#### Technical Skills: Python, MATLAB, SQL, AWS
 
 ## Education
 - M.S., Electrical Engineering      |     Stanford University (_March 2024 Expected_)	 			        		
@@ -52,9 +52,9 @@ This was a project with the Physiological Monitoring and Modulation Lab at Georg
 
 ### Console Gaming Injury Prediction via EMG
 
-TODO: Picture Here
+Github | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary0shah.github.io/master/assets/writing/ConsoleGamingEmgforRSI.pdf">(Download FILE)</a>
 
-TODO: Poster Here
+![EMGForGaming](assets/img/EMGForGaming.png)
 
 A class research project to indicate strain injury risks during console gaming. I designed a data acquisition system with an Arduino to collect a subject’s electromyogram (EMG), a measure of the electrical activity of muscles, into MATLAB. We examined what regions of the EMG power spectral density could be used as an indicator classify forearm fatigue during extended periods of gaming. 
 
@@ -62,8 +62,11 @@ A class research project to indicate strain injury risks during console gaming. 
 - Information Science and Engineering, Teaching Assistant, Stanford Univeristy, Spring 2023
 - Problems in Biomedical Engineering, Teaching Assistant, Georgia Tech, Fall 2020, Spring 2021, Fall 2021
 
-## Publications and Awards
+## Publications & Awards
 
-- Dan Fielder Memorial Award
+#### Publications
 - Review Paper
+
+#### Awards
+- Dr. Dan Fielder Memorial Award for Excellence in Signal Processing Coursework, May 2021
 - Synopsys
