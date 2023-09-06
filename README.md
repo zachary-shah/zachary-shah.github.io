@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, MATLAB, SQL, AWS
 
-#### Contact: [Email](zshah9@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/zacharyshah/)
+#### Contact: [Email](mailto:zshah9@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/zacharyshah/)
 
 ## Education
 - M.S., Electrical Engineering      |     Stanford University (_March 2024 Expected_)	 			        		
@@ -63,9 +63,9 @@ Our team created a wearable knee sleeve to monitor long-term arthritic joint swe
 
 A class research project to indicate strain injury risks during console gaming. I designed a data acquisition system with an Arduino to collect a subject’s electromyogram (EMG), a measure of the electrical activity of muscles, into MATLAB. We examined what regions of the EMG power spectral density could be used as an indicator classify forearm fatigue during extended periods of gaming. 
 
-## Additional Notes 
+## Accolades
 
-## Teaching Experience
+### Teaching Experience
 - Information Science and Engineering, Teaching Assistant, Stanford Univeristy, Spring 2023
 - Problems in Biomedical Engineering, Teaching Assistant, Georgia Tech, Fall 2020, Spring 2021, Fall 2021
 
