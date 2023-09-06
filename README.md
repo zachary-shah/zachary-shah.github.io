@@ -46,7 +46,7 @@ This project aims to generate new instrumentation into acoustic audio using Stab
 Click to listen to examples of inpainted melodies using [ControlNet](https://github.com/zachary-shah/riff-cnet/tree/main#examples-of-our-models-samples) and [InstructPix2Pix](https://github.com/zachary-shah/riff-pix2pix#results).
 
 ### Joint Health Monitoring System
-Code ([Github](https://github.com/zshah9/sentrac)) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/JointHealthMonitor.pdf">(Download)</a>
+Code ([Github](https://github.com/zshah9/sentrac)) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/JointHealthMonitor.jpg">(Download)</a>
 
 ![KneeMonitor](assets/img/KneeMonitor.png)
 
