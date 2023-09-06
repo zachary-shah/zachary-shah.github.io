@@ -5,9 +5,9 @@
 #### Contact: [Email](mailto:zshah9@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/zacharyshah/)
 
 ## Education
-M.S., Electrical Engineering      |     Stanford University (_March 2024_)	 			        		
+- M.S., Electrical Engineering  |   Stanford University (_Mar 2024_)	 			        		
 
-B.S., Biomedical Engineering      |     Georgia Tech (_May 2022_)
+- B.S., Biomedical Engineering  |   Georgia Tech (_May 2022_)
 
 ## Work Experience
 
@@ -17,7 +17,7 @@ B.S., Biomedical Engineering      |     Georgia Tech (_May 2022_)
 - Designed a patent-pending signal de-trending algorithm
 
 **Undergraduate Research Assistant @ Georgia Tech (_Aug 2021- May 2022_)**
-- Conducted patient data collection & processing for a bed-based health monitoring system under Dr. Omer Inan in collaboration with Hillrom
+- Conducted data collection & processing for a bed-based health monitoring system under Dr. Omer Inan in collaboration with Hillrom
 - Developed PyTorch deep learning models (GANs, Gated Attention networks) for heartbeat segmentation of the BCG 
 - Explored time series metrics like the Signal Quality Index to differentiate motion artifacts and noise from heartbeat features
 
@@ -35,7 +35,7 @@ Code [(Github)](https://github.com/zachary-shah/admmNN) | Paper <a id="raw-url" 
 This project reformulates the non-convex training landscape of a ReLU-activated neural network as a convex optimization problem solved via the Alternating Direction Method of Multipliers (ADMM). We examine three practical ADMM based methods for solving this reformulated problem, and examine their performance with GPU acceleration on PyTorch and JAX. The main contribution to this work is exploring stochastic and preconditioned approximations to meliorate the expensive linear systems solve of the ADMM algorithm. This project examines scalability and acceleration of these methods, in order to encourage applications across a wide range of statistical learning settings. 
 
 ### Stable Diffusion for Audio Inpainting
-Code ([riff-cnet](https://github.com/zachary-shah/riff-cnet)) ([riff-pix2pix](https://github.com/zachary-shah/riff-pix2pix)) | Paper </a><a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/StableDiffusionAudioInpainting.pdf">(Download)</a>
+Code ([riff-cnet](https://github.com/zachary-shah/riff-cnet)) ([riff-pix2pix](https://github.com/zachary-shah/riff-pix2pix)) | Paper <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/StableDiffusionAudioInpainting.pdf">(Download)</a>
 
 ![AudioGeneration](assets/img/AudioGeneration.png)
 
@@ -45,7 +45,7 @@ Click to listen to examples of inpainted melodies using [ControlNet](https://git
 
 ### Joint Health Monitoring System
 
-Code [(Github)](https://github.com/zshah9/sentrac) | Poster </a><a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/JointHealthMonitor.pdf">(Download)</a>
+Code [(Github)](https://github.com/zshah9/sentrac) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/JointHealthMonitor.pdf">(Download)</a>
 
 ![KneeMonitor](assets/img/KneeMonitor.png)
 
@@ -55,7 +55,7 @@ Our team created a wearable knee sleeve to monitor long-term arthritic joint swe
 
 ### Console Gaming Injury Prediction via EMG
 
-Code [(Github)](https://github.com/zachary-shah/emg-rsi-indicator) | Poster </a><a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ConsoleGamingEMGforRSI.pdf">(Download)</a>
+Code [(Github)](https://github.com/zachary-shah/emg-rsi-indicator) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ConsoleGamingEMGforRSI.pdf">(Download)</a>
 
 
 ![EMGForGaming](assets/img/EMGForGaming.png)
