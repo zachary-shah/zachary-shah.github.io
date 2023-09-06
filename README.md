@@ -63,11 +63,7 @@ Our team created a wearable knee sleeve to monitor long-term arthritic joint swe
 
 A class research project to indicate strain injury risks during console gaming. I designed a data acquisition system with an Arduino to collect a subject’s electromyogram (EMG), a measure of the electrical activity of muscles, into MATLAB. We examined what regions of the EMG power spectral density could be used as an indicator classify forearm fatigue during extended periods of gaming. 
 
-## Accolades
-
-### Teaching Experience
-- Information Science and Engineering, Teaching Assistant, Stanford Univeristy, Spring 2023
-- Problems in Biomedical Engineering, Teaching Assistant, Georgia Tech, Fall 2020, Spring 2021, Fall 2021
+## Other Accolades
 
 #### Publications
 - Yoon, J.-K., Kim, J., Shah, Z., Awasthi, A., Mahajan, A., Kim, Y., Advanced Human BBB-on-a-Chip: A New Platform for Alzheimer's Disease Studies. Adv. Healthcare Mater. 2021, 10, 2002285. https://doi.org/10.1002/adhm.202002285
@@ -75,3 +71,7 @@ A class research project to indicate strain injury risks during console gaming. 
 #### Awards
 - Dr. Dan Fielder Memorial Award for Excellence in Signal Processing Coursework, May 2021
 - American Society for Gravitational and Space Research Poster Competition, 3rd Prize, Aug 2017
+
+### Teaching Experience
+- Information Science and Engineering, Teaching Assistant, Stanford Univeristy, Spring 2023
+- Problems in Biomedical Engineering, Teaching Assistant, Georgia Tech, Fall 2020, Spring 2021, Fall 2021\
