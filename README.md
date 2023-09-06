@@ -4,13 +4,15 @@
 
 #### Contact: [Email](mailto:zshah9@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/zacharyshah/)
 
+
 ## Education
+---
 - M.S., Electrical Engineering  |   Stanford University (_Mar 2024_)	 			        		
 
 - B.S., Biomedical Engineering  |   Georgia Tech (_May 2022_)
 
 ## Work Experience
-
+---
 **Data Science Intern @ Medtronic (_Summer 2022 & Summer 2023_)**
 - Modeled signal behavior and developed machine learning tools to improve next-generation continuous glucose monitoring platforms
 - Developed MATLAB infrastructure for optimizing and assessing innovative algorithm features
@@ -26,9 +28,9 @@
 - Supported teammates by creating analysis for understanding inventory needs for line transfer strategy for new product launch
 
 ## Projects
-
+---
 ### Convex Optimization of 2-layer Neural Networks
-Code [(Github)](https://github.com/zachary-shah/admmNN) | Paper <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ScalableADMMConvexNeuralNetworks.pdf">(Download)</a>
+Code ([Github](https://github.com/zachary-shah/admmNN)) | Paper <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ScalableADMMConvexNeuralNetworks.pdf">(Download)</a>
 
 ![ScalableAdmm](assets/img/ScalableADMMNN.png)
 
@@ -44,8 +46,7 @@ This project aims to generate new instrumentation into acoustic audio using Stab
 Click to listen to examples of inpainted melodies using [ControlNet](https://github.com/zachary-shah/riff-cnet/tree/main#examples-of-our-models-samples) and [InstructPix2Pix](https://github.com/zachary-shah/riff-pix2pix#results).
 
 ### Joint Health Monitoring System
-
-Code [(Github)](https://github.com/zshah9/sentrac) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/JointHealthMonitor.pdf">(Download)</a>
+Code ([Github](https://github.com/zshah9/sentrac)) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/JointHealthMonitor.pdf">(Download)</a>
 
 ![KneeMonitor](assets/img/KneeMonitor.png)
 
@@ -54,16 +55,14 @@ My Capstone Senior Design Project, in collaboration with the Army Research Lab a
 Our team created a wearable knee sleeve to monitor long-term arthritic joint swelling. After conducting extensive interviews with rheumatologists, sports practitioners, and arthritis patients, we discovered that clinical professionals lack the capabilities to provide reliable quantified metrics of the progression of arthritis, especially limiting the use of telemedicine for their practices. To address this, we aimed to quantify the fluidic swelling of a joint by building a wearable monitor in the form of a sleeve, employing a custom fabricated printed circuit board and strain sensors built from liquid-metal alloys embedded into a silicone mesh. Since we built these sensors ourselves, I designed a calibration model to map strain-induced voltages from these sensors to geometric measures across the knee. To demonstrate the patient use-case, I developed a web app using React to display real-time joint measurements collected from the sleeve via Bluetooth.
 
 ### Console Gaming Injury Prediction via EMG
-
-Code [(Github)](https://github.com/zachary-shah/emg-rsi-indicator) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ConsoleGamingEMGforRSI.pdf">(Download)</a>
-
+Code ([Github](https://github.com/zachary-shah/emg-rsi-indicator)) | Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ConsoleGamingEMGforRSI.pdf">(Download)</a>
 
 ![EMGForGaming](assets/img/EMGForGaming.png)
 
 An undergraduate class research project to indicate strain injury risks during console gaming. I designed a data acquisition system with an Arduino to collect a subject’s electromyogram (EMG), a measure of the electrical activity of muscles, into MATLAB. We examined what regions of the EMG power spectral density could be used as an indicator classify forearm fatigue during extended periods of gaming. 
 
 ## Other Accolades
-
+---
 ### Publications
 - Yoon, J.-K., Kim, J., Shah, Z., Awasthi, A., Mahajan, A., Kim, Y., Advanced Human BBB-on-a-Chip: A New Platform for Alzheimer's Disease Studies. Adv. Healthcare Mater. 2021, 10, 2002285. https://doi.org/10.1002/adhm.202002285
 
