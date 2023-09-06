@@ -24,9 +24,9 @@
 - Developed PyTorch deep learning models (GANs, Gated Attention networks) for ballistiocardiogram heartbeat segmentation
 - Explored time series metrics like the Signal Quality Index to differentiate motion artifacts and noise from heartbeat features
 
-**Business Analytics Intern @ Covidien (Summer 2021)**
+<!-- **Business Analytics Intern @ Covidien (Summer 2021)**
 - Built analysis leveraging SQL to provide insight to margin enhancement & risk across new product portfolio
-- Supported teammates by creating analysis for understanding inventory needs for line transfer strategy for new product launch
+- Supported teammates by creating analysis for understanding inventory needs for line transfer strategy for new product launch -->
 
 ## Projects
 ---
