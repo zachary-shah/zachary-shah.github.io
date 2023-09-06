@@ -17,7 +17,7 @@
 - Designed a patent-pending signal de-trending algorithm
 
 **Undergraduate Research Assistant @ Georgia Tech (_Aug 2021- May 2022_)**
-- Conducted data collection & processing for a bed-based health monitoring system under Dr. Omer Inan in collaboration with Hillrom
+- Conducted data collection & processing for a bed-based health monitoring system under Dr. Omer Inam, collab. with Hillrom
 - Developed PyTorch deep learning models (GANs, Gated Attention networks) for heartbeat segmentation of the BCG 
 - Explored time series metrics like the Signal Quality Index to differentiate motion artifacts and noise from heartbeat features
 
