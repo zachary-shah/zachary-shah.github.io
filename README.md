@@ -7,9 +7,9 @@
 
 ## Education
 ---
-- M.S., Electrical Engineering  |   Stanford University (_Mar 2024_)	 			        		
+- M.S., Electrical Engineering | Stanford University (_Mar 2024_)	 			        		
 
-- B.S., Biomedical Engineering  |   Georgia Tech (_May 2022_)
+- B.S., Biomedical Engineering | Georgia Tech (_May 2022_)
 
 ## Work Experience
 ---
