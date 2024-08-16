@@ -8,11 +8,11 @@
 
 ## Education
 ---
-M.S., Electrical Engineering | Stanford University (_Apr 2024_)	 			        		
-
-B.S., Biomedical Engineering | Georgia Tech (_May 2022_)
+- M.S., Electrical Engineering | Stanford University (_Apr 2024_)	 			        		
+- B.S., Biomedical Engineering | Georgia Tech (_May 2022_)
 
 ## Publications
+---
 **Shah, Z.**, Urman, Y., Kumar, A., Soares, B. P., & Setsompop, K. (2024). Accelerating Longitudinal MRI using Prior Informed Latent Diffusion. arXiv preprint arXiv:2407.00537.
 
 Villa-Renteria, I., Wang, M. L., **Shah, Z.**, Li, Z., Kim, S., Ramachandran, N., & Pilanci, M. (2024). Subtractive Training for Music Stem Insertion using Latent Diffusion Models. arXiv preprint arXiv:2406.19328.
@@ -22,12 +22,15 @@ Yoon, J. K., Kim, J., **Shah, Z.**, Awasthi, A., Mahajan, A., & Kim, Y. (2021). 
 ## Projects
 ---
 ### Accelerating Longitudinal MRI Using Prior Informed Posterior Sampling (PIPS)
-Code (N/A) | [Paper (arxiv pre-print)](https://arxiv.org/abs/2407.00537)
+Paper [(arxiv pre-print)](https://arxiv.org/abs/2407.00537)
+
+Brain Magnetic Resonance Imaging (MRI) is a common medical procedure, often repeated throughout a patient’s life. However, MRI faces challenges such as lengthy scan times and motion-related artifacts compromising image quality. Typically, information from prior MR scans is not utilized during acquisition of subsequent scans, despite resulting in similar reconstructed images. In this work, we propose a conditional latent diffusion model with enforced data consistency to reconstruct high-quality subject-specific brain images from an accelerated MRI scan by conditioning the model on previously acquired brain MRIs:
 
 ![pips_methods_figure](assets/img/pips_methods_figure.png)
-![pips_result_figure](assets/img/oasis-unregistered.png)
 
-Brain Magnetic Resonance Imaging (MRI) is a common medical procedure, often repeated throughout a patient’s life. However, MRI faces challenges such as lengthy scan times and motion-related artifacts compromising image quality. Typically, information from prior MR scans is not utilized during acquisition of subsequent scans, despite resulting in similar reconstructed images. In this work, we propose a conditional latent diffusion model with enforced data consistency to reconstruct high-quality subject-specific brain images from an accelerated MRI scan by conditioning the model on previously acquired brain MRIs.
+Using our approach, we are able to reconstruct a new scan using only 1/6 of the data required by conventional methods! See an example of our method's performance on an example from the OASIS dataset below. Learn more at our paper above. 
+
+![pips_result_figure](assets/img/oasis-unregistered.png)
 
 ### Subtractive Training for Music Stem Insertion using Latent Diffusion Models
 Code ([riff-cnet](https://github.com/zachary-shah/riff-cnet)) ([riff-pix2pix](https://github.com/zachary-shah/riff-pix2pix)) | [Paper](https://arxiv.org/abs/2406.19328)
