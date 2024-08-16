@@ -1,8 +1,8 @@
 # Data Scientist
 
-**Summary**: Graduate student seeking a full-time data science role beginning summer of 2024.
+**Summary**: PhD Student at Stanford University Admitted Autumn 2024, Advised by Dr. Kawin Setsompop
 
-#### Technical Skills: Python, MATLAB, SQL, AWS
+**Interests**: Medical Imaging, MRI, Signal and Image Processing, Software/Hardware Interfaces, Physics-based Deep Learning
 
 #### Contact: [Email](mailto:zshah9@stanford.edu) | [LinkedIn](https://www.linkedin.com/in/zacharyshah/)
 
@@ -11,6 +11,11 @@
 - M.S., Electrical Engineering | Stanford University (_Apr 2024_)	 			        		
 
 - B.S., Biomedical Engineering | Georgia Tech (_May 2022_)
+
+## Publications
+- **Shah, Z.**, Urman, Y., Kumar, A., Soares, B. P., & Setsompop, K. (2024). Accelerating Longitudinal MRI using Prior Informed Latent Diffusion. arXiv preprint arXiv:2407.00537.
+- Villa-Renteria, I., Wang, M. L., **Shah, Z.**, Li, Z., Kim, S., Ramachandran, N., & Pilanci, M. (2024). Subtractive Training for Music Stem Insertion using Latent Diffusion Models. arXiv preprint arXiv:2406.19328.
+- Yoon, J. K., Kim, J., Shah, Z., Awasthi, A., Mahajan, A., & Kim, Y. (2021). Advanced Human BBB‐on‐a‐Chip: A New Platform for Alzheimer's Disease Studies. Advanced healthcare materials, 10(15). https://doi.org/10.1002/adhm.202002285
 
 ## Work Experience
 ---
@@ -26,9 +31,16 @@
 
 ## Projects
 ---
+### Accelerating Longitudinal MRI Using Prior Informed Posterior Sampling (PIPS).
+Code (N/A) | [Paper (arxiv pre-print)](https://arxiv.org/abs/2407.00537)
 
-### Stable Diffusion for Audio Inpainting
-Code ([riff-cnet](https://github.com/zachary-shah/riff-cnet)) ([riff-pix2pix](https://github.com/zachary-shah/riff-pix2pix)) | Paper <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/StableDiffusionAudioInpainting.pdf">(Download)</a>
+![pips_methods_figure](https://github.com/user-attachments/assets/59fdd535-2a59-4d99-b944-44e65407b7f1)
+<img width="1358" alt="pips result figure" src="https://github.com/user-attachments/assets/365a5599-3362-495d-887c-7a605af2ea54">
+
+Brain Magnetic Resonance Imaging (MRI) is a common medical procedure, often repeated throughout a patient’s life. However, MRI faces challenges such as lengthy scan times and motion-related artifacts compromising image quality. Typically, information from prior MR scans is not utilized during acquisition of subsequent scans, despite resulting in similar reconstructed images. In this work, we propose a conditional latent diffusion model with enforced data consistency to reconstruct high-quality subject-specific brain images from an accelerated MRI scan by conditioning the model on previously acquired brain MRIs.
+
+### Subtractive Trainign for Music Stem Insertion using Latent Diffusion Models
+Code ([riff-cnet](https://github.com/zachary-shah/riff-cnet)) ([riff-pix2pix](https://github.com/zachary-shah/riff-pix2pix)) | [Paper](https://arxiv.org/abs/2406.19328)
 
 ![AudioGeneration](assets/img/AudioGeneration.png)
 
@@ -61,11 +73,10 @@ An undergraduate class research project to indicate strain injury risks during c
 ---
 
 ### Teaching Assistantships
+- Digital Signal Processing, Stanford University, Winter 2024
+- Signal Processing for Machine Learning, Stanford University, Autumn 2023
 - Information Science and Engineering, Stanford Univeristy, Spring 2023
 - Problems in Biomedical Engineering, Georgia Tech, Fall 2020 & Spring 2021
-
-### Publications
-- Yoon, J.-K., Kim, J., Shah, Z., Awasthi, A., Mahajan, A., Kim, Y., Advanced Human BBB-on-a-Chip: A New Platform for Alzheimer's Disease Studies. Adv. Healthcare Mater. 2021, 10, 2002285. https://doi.org/10.1002/adhm.202002285
 
 ### Awards
 - Dr. Dan Fielder Memorial Award for Excellence in Signal Processing Coursework, May 2021
