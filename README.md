@@ -55,13 +55,6 @@ Code ([Github](https://github.com/zshah9/sentrac)) | Poster <a id="raw-url" href
 
 My undergraduate senior design project, in collaboration with the Army Research Lab. We created a wearable knee sleeve to monitor long-term arthritic joint swelling. After conducting extensive interviews with sports practitioners and rheumatologists, we discovered that clinical professionals lack the capabilities to provide reliable quantified metrics of the progression of arthritis. To address this, we quantified the fluidic swelling of a joint by building a wearable monitor, employing a custom fabricated printed circuit board and strain sensors built from liquid-metal alloys embedded into a silicone mesh. To gauge joint swelling, I designed a calibration model to map strain-induced voltages from these sensors to geometric measures across the knee. To demonstrate the patient use-case, I developed a web app using React to display real-time joint measurements collected via Bluetooth.
 
-### Console Gaming Injury Prediction via EMG
-Poster <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ConsoleGamingEMGforRSI.pdf">(Download)</a>
-
-![EMGForGaming](assets/img/EMGForGaming.png)
-
-An undergraduate class research project to indicate strain injury risks during console gaming. I designed a data acquisition system with an Arduino to collect a subject’s electromyogram (EMG), a measure of the electrical activity of muscles, into MATLAB. We examined what regions of the EMG power spectral density could be used as an indicator classify forearm fatigue during extended periods of gaming. 
-
 ## Work Experience
 ---
 **Data Science Intern @ Medtronic (_Summer 2022 & Summer 2023_)**
